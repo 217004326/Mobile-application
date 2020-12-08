@@ -1,0 +1,4 @@
+com/example/hellotoastchallenge_217004326/MainActivity.java
+ com.example.hellotoastchallenge_217004326.MainActivity
+com/example/hellotoastchallenge_217004326/BuildConfig.java
+ com.example.hellotoastchallenge_217004326.BuildConfig
